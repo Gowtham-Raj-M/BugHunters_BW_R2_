@@ -1,0 +1,20 @@
+[2022-08-26 18:59:56,447] - INFO - the browser is chrome
+[2022-08-26 18:59:56,448] - INFO - 
+
+[2022-08-26 18:59:56,448] - INFO - ====== WebDriver manager ======
+[2022-08-26 18:59:56,536] - INFO - Current google-chrome version is 104.0.5112
+[2022-08-26 18:59:56,537] - INFO - Get LATEST driver version for 104.0.5112
+[2022-08-26 18:59:56,874] - INFO - Driver [/Users/mgowthamraj/.wdm/drivers/chromedriver/mac64/104.0.5112.79/chromedriver] found in cache
+[2022-08-26 18:59:59,806] - INFO - Test Execution is started with chrome browser ...
+[2022-08-26 18:59:59,812] - INFO - STARTED Test 'test_BookTicket'
+[2022-08-26 19:00:04,593] - INFO - Successfully entered value in:
+[2022-08-26 19:00:05,143] - INFO - Successfully clicked on:
+[2022-08-26 19:00:05,783] - INFO - Successfully entered value in:
+[2022-08-26 19:00:06,397] - INFO - Successfully clicked on:
+[2022-08-26 19:00:06,952] - INFO - Successfully clicked on:
+[2022-08-26 19:00:07,503] - INFO - Successfully clicked on:
+[2022-08-26 19:00:08,134] - INFO - Successfully clicked on:
+[2022-08-26 19:00:14,092] - INFO - Successfully clicked on:
+[2022-08-26 19:00:14,155] - INFO - COMPLETED Test 'test_BookTicket' 
+
+[2022-08-26 19:00:14,155] - INFO - Test Execution is Stopped

@@ -1,0 +1,134 @@
+{
+	"id": "18ded93d-548b-4ccf-be08-f827116b0e99",
+	"name": "BugHunters_RestfulBooker",
+	"timestamp": "2022-08-26T09:55:39.290Z",
+	"collection_id": "19844969-6a2df0ff-d8c4-4e96-8577-8ad94a6336a6",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "5eebf5f8-88eb-4709-a62a-355adaa08e20",
+			"name": "Create Booking",
+			"time": 279,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				266,
+				270,
+				269,
+				272,
+				279
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "0a1a4458-0c9d-4fd0-b7e6-3aec7aad973d",
+			"name": "create token",
+			"time": 271,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				272,
+				269,
+				270,
+				269,
+				271
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "0e31cab9-582b-4c55-92bd-d38c028d3fb2",
+			"name": "Get Booking",
+			"time": 277,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				275,
+				277,
+				276,
+				274,
+				277
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "1dc3aef1-46bf-42b5-a874-7d311bafad74",
+			"name": "delete booking",
+			"time": 275,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				278,
+				279,
+				279,
+				279,
+				275
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 5,
+	"totalTime": 5476,
+	"collection": {
+		"requests": [
+			{
+				"id": "5eebf5f8-88eb-4709-a62a-355adaa08e20",
+				"method": "POST"
+			},
+			{
+				"id": "0a1a4458-0c9d-4fd0-b7e6-3aec7aad973d",
+				"method": "POST"
+			},
+			{
+				"id": "0e31cab9-582b-4c55-92bd-d38c028d3fb2",
+				"method": "GET"
+			},
+			{
+				"id": "1dc3aef1-46bf-42b5-a874-7d311bafad74",
+				"method": "DELETE"
+			}
+		]
+	}
+}
